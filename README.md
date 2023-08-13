@@ -1,3 +1,5 @@
 # learning-python
 
-UPDATING .....
+**UPDATING .....**
+
+FA / Python 3.11.4
